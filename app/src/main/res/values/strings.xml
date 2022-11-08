@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPersonal_Portfolio</string>
+    <string name="my_own_journal">My Own Journal</string>
+    <string name="todo">TODO</string>
+</resources>
